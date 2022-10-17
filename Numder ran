@@ -1,0 +1,5 @@
+import random
+
+I = random.randint
+
+print (I)
